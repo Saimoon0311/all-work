@@ -1,0 +1,59 @@
+body{
+
+    margin: 0px;
+    padding: 0px;
+    
+    }
+    
+    
+    img{
+      display: block;
+    width: 500px;
+    margin: auto;
+    
+    }
+    
+    
+    .form{
+    
+    margin: auto;
+    
+    
+    }
+    
+    h1{
+      font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;  
+      color: #0066b3;
+      text-align: center; 
+      text-decoration: underline
+    }
+    
+    
+    .qualhead{
+    
+    text-align: center;
+    font-weight: bold;
+    
+    }
+    
+    .foottext{
+    
+      text-align: center;
+    }
+    
+    .form{
+      border: 2px solid black;
+      font-family: 'Calibri' , Arial, Helvetica, sans-serif; 
+      color:white; 
+      font-size: 11pt; 
+      font-style: normal;
+      font-weight: bold;
+    
+      background-color: blueviolet;
+      border-collapse: collapse; 
+     
+    }
+    .btn{
+    
+      text-align: center;
+    }

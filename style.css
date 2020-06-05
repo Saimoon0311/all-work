@@ -1,0 +1,22 @@
+/* a
+{
+    font-size: 50px;
+    color: brown;
+}
+a:hover{
+    background-color: red;
+    color: white;
+    border-radius: 8px ;
+} */
+
+.asign{
+    text-align: center;
+    border: 2px solid;
+    /* width: 100px; */
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color:rgba(135, 207, 235, 0.198) ;
+}
+.home{
+    text-align: right !important;
+}

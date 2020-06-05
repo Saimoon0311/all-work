@@ -1,0 +1,205 @@
+/* body{
+    background-color:rgba(0, 0, 255, 0.034);
+} */
+.hyp{
+    background-color: blue;
+    /* max-width: 100%;
+    min-width: 5%; */
+    /* padding: 10px; */
+    /* flex-direction: column; */
+    flex-wrap: wrap;
+    justify-content: space-between;
+    display: flex;
+    /* height: 50px; */
+}
+/* button{
+    float: right;
+    border: 1px solid;
+    margin: 1px;
+    max-height: 25px;
+    min-height: 1px;
+} */
+.one{
+    flex: 1;
+}
+.two{
+    flex: 2;
+}
+.three{
+    flex: 1;
+}
+*button{
+    padding-top: 7px;
+}
+.one,.three{
+    padding: 10px;
+}
+.logos{
+    /* max-width: 50%;
+    min-width: 5%; */
+    width: 200px;
+}
+.don{
+    color: green;
+    /* max-width: 5%; */
+    box-sizing: 50px;
+}
+
+
+.menu{
+    float: right;
+    margin: -4px 10px 0px 10px;
+    /* flex: 3; */
+    text-align: center;
+    /* height: 1px; */
+}
+.non{
+    /* margin: 5px; */
+    /* max-width: 100%;
+    min-width: 1px; */
+    font-family: Arial, Helvetica, sans-serif;
+    /* flex-direction: column; */
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;     
+}
+.home{
+    margin: 10px 10px 0px 10px;
+    color: black;
+    text-decoration: none;
+}
+.home:hover{
+    color: white;
+    background-color: blue;
+}
+.menu{
+    padding: 10px;
+}
+/* .menu:hover{
+    background-color: blue;
+    color: white;
+} */
+
+.main{
+    min-width: 100%;
+    max-width: 1%;
+
+}
+.int{
+    color: greenyellow ;
+    font-size: 50px;
+    min-width: 1px;
+}
+.p1{
+    max-width: 100%;
+    min-width: 1px;
+}
+.pa{
+    margin: 1px 100px 1px 100px;
+    display: flex;
+    flex-wrap: wrap;
+    /* justify-content: space-around; */
+    text-align: justify;
+}
+/* @media only screen and (max-width: 300px)
+.pa{
+    margin: 1px 30px 1px 3opx;
+} */
+.saim{
+    padding-top: 80px;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    background-color: blue;
+    color: white;
+}
+.boxs{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.boxone{
+    background-color: white;
+    box-shadow: 1px 1px 9px #000000;
+    margin-top: 30px;
+    padding: 4px;
+    border: transparent;
+    width: 380px;
+}
+/* @media only screen and (max-width:100%){
+    {
+        background-color: crimson;
+    }
+     .boxone{
+       width: 100%;
+    } */
+
+.boxtwo{
+    background-color: white;
+    box-shadow: 1px 1px 9px #000000;
+    margin-top: 30px;
+    padding: px;
+    border: transparent;
+    width: 380px;
+}
+h2{
+    text-align: center;
+}
+.daily{
+    text-align: center;
+}
+.faimly{
+    text-align: center;
+}
+.medical{
+    text-align: center;
+}
+.education{
+    text-align: center;
+}
+.event{
+    
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+        
+    justify-content: space-around;
+}
+.hep{
+    width: 45%;
+    text-align: center;
+}
+.it{
+    width: 45%;
+    text-align: center;
+    margin-top: 10px;     
+}  
+.eve{
+    width: 100%;         
+    text-align: center;
+}
+
+.last{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+footer{
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    height:300px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding-top: 100px;
+}
+.link{
+     float: right;
+}
+.non{
+     position: sticky;
+     top: 0;
+     background-color: lightgrey;
+    height: px;
+    }
